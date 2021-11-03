@@ -1,3 +1,4 @@
+
 This is a sample project students can use during Matthew's Git class.
 
 Here is an addition by me
@@ -14,3 +15,4 @@ We can, as an example effort, even modify this README and change it as if it wer
 
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 my edit line
+my edit line2 from local
